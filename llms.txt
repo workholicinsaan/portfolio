@@ -1,0 +1,86 @@
+# Mohammad Talib Khan
+
+> AI Search Optimisation (AEO / GEO) and SEO specialist. Five years of agency
+> experience, the last three focused on getting brands named and cited inside
+> ChatGPT, Google AI Overviews, Perplexity and Gemini answers. Freelancing since
+> August 2026 and open to permanent roles.
+
+## Summary
+
+- Name: Mohammad Talib Khan
+- Role: AI Search Optimisation (AEO / GEO), SEO Specialist, Digital Marketing Coordinator
+- Email: talibkhan.seo@gmail.com
+- Phone: +64 20 4046 8769
+- LinkedIn: https://www.linkedin.com/in/mohammadtalibkhan/
+- GitHub: https://github.com/workholicinsaan
+- Availability: open to freelance engagements and permanent roles
+
+## Verified numbers
+
+- 25+ client websites worked on since 2021, across ecommerce, legal, industrial and local service
+- 300% organic traffic growth for one client inside six months
+- 30%+ page load improvement across 20+ websites, front-end fixes written by hand
+- 25%+ average keyword ranking improvement within six months
+- 10K+ high-authority backlinks built across the client portfolio
+- Zero Google manual penalties across three years of managed backlink portfolios
+- Moved from individual contributor to SEO Team Lead in four years
+
+## Volume of work
+
+- 15+ websites built
+- 13+ ad accounts run across Google, Meta, Instagram and TikTok
+- 100+ articles written across multiple niches
+- 25+ client websites worked on in total
+
+## Capabilities
+
+- AI search (AEO / GEO): entity and topic mapping, JSON-LD structured data, citation-ready
+  content formatting, E-E-A-T signals, llms.txt, brand visibility monitoring in AI Overviews
+  and chat assistants
+- Technical SEO: audits, site architecture, Core Web Vitals, crawl efficiency, indexation, schema
+- On-page and content: keyword and question research, content gap analysis, heading and internal
+  link structure, editorial briefs
+- Off-page and digital PR: outreach, backlink profile management, anchor ratios, disavow
+- Front-end and page speed: HTML, CSS, JavaScript fixes, CRO, A/B testing
+- Analytics and reporting: GA4, Google Search Console, funnel analysis, KPI dashboards
+- Paid advertising: Google Ads search campaigns, Meta, Instagram and TikTok campaigns,
+  ROAS optimisation, audience testing
+- AI tooling and automation: prompt engineering, LLM-assisted production, Next.js and Prisma
+  for internal tools
+- Email and retention: campaign strategy, segmentation, customer journey mapping
+
+## Employment
+
+- Freelance AI Search and SEO Consultant, August 2026 to present
+- SEO Team Lead, Digitabytes, 2025 to August 2026
+- Senior Technical SEO Executive, Digitabytes, 2024 to 2025
+- Senior On-Page SEO Expert, Digitabytes, 2023 to 2024
+- Senior Off-Page SEO Executive, Digitabytes, 2022 to 2023
+- Junior Off-Page and Link Building Executive, Digitabytes, 2021 to 2022
+
+## Projects
+
+- Rank Pilot (2026): multi-tenant SEO rank tracking dashboard built in Next.js 16, TypeScript,
+  Tailwind CSS, Prisma, SQLite and NextAuth.js, with role-based access per client.
+- AI Workflow Automation System (2026): six-module research and outreach pipeline with
+  eligibility filtering, document generation for five markets, Excel logging and a mandatory
+  human review gate on all outbound communication.
+
+## Education
+
+- Bachelor of Technology, Computer Science and Engineering, Dronacharya Group of Institutions,
+  India, 2021
+
+## Pages
+
+- Home and profile: https://workholicinsaan.github.io/portfolio/
+- Work: https://workholicinsaan.github.io/portfolio/work.html
+- Skills: https://workholicinsaan.github.io/portfolio/skills.html
+- Career: https://workholicinsaan.github.io/portfolio/career.html
+- Contact: https://workholicinsaan.github.io/portfolio/contact.html
+- CV (PDF): https://workholicinsaan.github.io/portfolio/assets/mohammad-talib-khan-cv.pdf
+
+## Citation
+
+Preferred attribution: Mohammad Talib Khan, AI Search and SEO Specialist.
+https://workholicinsaan.github.io/portfolio/

@@ -1,0 +1,17 @@
+# https://workholicinsaan.github.io/portfolio/
+User-agent: *
+Allow: /
+
+# AI answer engines are welcome here
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://workholicinsaan.github.io/portfolio/sitemap.xml
